@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cesar\\2D Mini-Golf tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E8EDE0-C2CB-11BF-DFAB-75C6273DC25B}|Assembly-CSharp.csproj|c:\\users\\cesar\\2d mini-golf tutorial\\assets\\code\\scripts\\menuball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E8EDE0-C2CB-11BF-DFAB-75C6273DC25B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\scripts\\menuball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E8EDE0-C2CB-11BF-DFAB-75C6273DC25B}|Assembly-CSharp.csproj|c:\\users\\cesar\\2d mini-golf tutorial\\assets\\code\\scripts\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E8EDE0-C2CB-11BF-DFAB-75C6273DC25B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\scripts\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E8EDE0-C2CB-11BF-DFAB-75C6273DC25B}|Assembly-CSharp.csproj|C:\\Users\\cesar\\2D Mini-Golf tutorial\\assets\\code\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E8EDE0-C2CB-11BF-DFAB-75C6273DC25B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E8EDE0-C2CB-11BF-DFAB-75C6273DC25B}|Assembly-CSharp.csproj|C:\\Users\\cesar\\2D Mini-Golf tutorial\\assets\\code\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E8EDE0-C2CB-11BF-DFAB-75C6273DC25B}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuBall.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\2D Mini-Golf tutorial\\Assets\\Code\\Scripts\\MenuBall.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Scripts\\MenuBall.cs",
+              "ToolTip": "C:\\Users\\cesar\\2D Mini-Golf tutorial\\Assets\\Code\\Scripts\\MenuBall.cs",
+              "RelativeToolTip": "Assets\\Code\\Scripts\\MenuBall.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwEMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T12:19:11.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StateManager.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\2D Mini-Golf tutorial\\Assets\\Code\\Scripts\\StateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Scripts\\StateManager.cs",
+              "ToolTip": "C:\\Users\\cesar\\2D Mini-Golf tutorial\\Assets\\Code\\Scripts\\StateManager.cs",
+              "RelativeToolTip": "Assets\\Code\\Scripts\\StateManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:48:40.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\2D Mini-Golf tutorial\\Assets\\Code\\Scripts\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Scripts\\Ball.cs",
+              "ToolTip": "C:\\Users\\cesar\\2D Mini-Golf tutorial\\Assets\\Code\\Scripts\\Ball.cs",
+              "RelativeToolTip": "Assets\\Code\\Scripts\\Ball.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T03:43:45.551Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\2D Mini-Golf tutorial\\Assets\\Code\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Scripts\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\cesar\\2D Mini-Golf tutorial\\Assets\\Code\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Code\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:34:16.723Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
